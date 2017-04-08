@@ -1,3 +1,3 @@
 function mxy(){
-    console.log(6000);
+    console.log(5000);
 }
